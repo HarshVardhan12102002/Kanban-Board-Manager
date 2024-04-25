@@ -1,8 +1,6 @@
-# Frontend Mentor - Kanban task management web app solution
+# Kanban Task Management Board Application
 
-- [this project YouTube video Tutorial](https://www.youtube.com/watch?v=3RWMktZNsJQ&t=1707s)
-
-This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This tool is designed to streamline your project management process through an intuitive and responsive interface, allowing users to manage tasks efficiently across various boards. Whether you're at your desk or on the move, our application adapts seamlessly to fit your device's screen size, enhancing productivity wherever you work. Dive into our documentation to explore how you can leverage this application to optimize your workflows, manage tasks with ease, and enhance your team's collaboration.
 
 ## Table of contents
 
@@ -49,6 +47,9 @@ Bonus:
 ### Screenshot
 
 ![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
+![Screenshot](<./public/screenshots/ss2.jpg>)
+![Screenshot](<./public/screenshots/ss3.jpg>)
+![Screenshot](<./public/screenshots/ss4.jpg>)
 
 ### Links
 
@@ -67,4 +68,4 @@ Bonus:
 
 ## Author
 
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
+- LinkedIn - [Harsh Vardhan Shukla](https://www.linkedin.com/in/harsh-vardhan-shukla-vit/)
