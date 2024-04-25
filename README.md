@@ -70,7 +70,7 @@ Login Page
 ### Built with
 
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- Drag and Drop API
+- [DragAndDropAPI](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) - Drag and Drop API
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
